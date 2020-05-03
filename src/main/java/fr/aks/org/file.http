@@ -1,0 +1,6 @@
+GET http://localhost:9191/hotels
+Accept: application/json
+
+###
+
+GET http://localhost:9191/hotels/name/flex
