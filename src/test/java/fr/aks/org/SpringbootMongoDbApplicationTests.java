@@ -1,4 +1,4 @@
-package fr.sqli.org;
+package fr.aks.org;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
